@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
     "projectName": "amplify-testing",
+=======
+    "projectName": "aws-project",
+>>>>>>> b870659233ddc639ef3558fc9b2ac8beafdc8f21
     "version": "2.0",
     "frontend": "javascript",
     "javascript": {
@@ -7,8 +11,13 @@
         "config": {
             "SourceDir": "src",
             "DistributionDir": "build",
+<<<<<<< HEAD
             "BuildCommand": "npm run-script build",
             "StartCommand": "npm run-script start"
+=======
+            "BuildCommand": "npm.cmd run-script build",
+            "StartCommand": "npm.cmd run-script start"
+>>>>>>> b870659233ddc639ef3558fc9b2ac8beafdc8f21
         }
     },
     "providers": [
