@@ -1,0 +1,14 @@
+{
+    "windows": {
+        "awscloudformation": {
+            "AuthRoleName": "aws-project-windows-20190921003304-authRole",
+            "UnauthRoleArn": "arn:aws:iam::250387501934:role/aws-project-windows-20190921003304-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::250387501934:role/aws-project-windows-20190921003304-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "aws-project-windows-20190921003304-deployment",
+            "UnauthRoleName": "aws-project-windows-20190921003304-unauthRole",
+            "StackName": "aws-project-windows-20190921003304",
+            "StackId": "arn:aws:cloudformation:us-west-2:250387501934:stack/aws-project-windows-20190921003304/0aea99d0-dc42-11e9-b099-0a92bf2e649c"
+        }
+    }
+}
